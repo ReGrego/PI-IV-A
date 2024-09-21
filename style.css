@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #D4C5E8 !important;              /* rgb(191, 230, 227) !important;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.navbar-brand{
+    font-weight: bold;
+}
+html, body{
+    background-color:#2C2F33; /* rgb(24, 28, 28);*/
+
+}
+h1{
+    color: #c2b1cb /*rgb(154, 207, 191);*/
+}
+.btn-custom{
+    background-color: #c2add9; /*rgb(93, 213, 203);*/
+    font-weight: 600;
+}
+
+.contato-container{
+    color:#d9b8ea;
+}
+
+.projetos-container{
+    color:#d9b8ea;
+}
+
+.form-container{
+    color:#d9b8ea;
+
+}
+
+.form-control{
+    max-width: 500px;
+}
+
+.card{
+    height: 500px;
+    width: 300px;
+}
